@@ -27,7 +27,7 @@ When submitting PeacePort to the Apple App Store and Google Play Store, you'll n
 
 ### Google Play Store Requirements
 - **Privacy Policy URL:** Required
-- **App Support Email:** gozutokbusiness@gmail.com
+- **App Support Email:** Info@vernaldigital.com
 
 ## 📋 Documents Included
 
@@ -165,7 +165,7 @@ Before submitting to app stores, ensure:
 - [ ] Terms of Service URL is added (if required)
 - [ ] Medical Disclaimer is prominently linked in the app
 - [ ] All "Last Updated" dates are current
-- [ ] Contact email (gozutokbusiness@gmail.com) is monitored
+- [ ] Contact email (Info@vernaldigital.com) is monitored
 
 ### Apple App Store Specific
 - [ ] Privacy Policy URL added to App Store Connect
@@ -176,12 +176,12 @@ Before submitting to app stores, ensure:
 ### Google Play Store Specific
 - [ ] Privacy Policy URL added to Play Console
 - [ ] Data Safety section completed
-- [ ] Support email added (gozutokbusiness@gmail.com)
+- [ ] Support email added (Info@vernaldigital.com)
 - [ ] Target audience set to 18+ (or appropriate age)
 
 ## 📧 Contact Information
 
-**Support Email:** gozutokbusiness@gmail.com  
+**Support Email:** Info@vernaldigital.com  
 **Response Time:** Within 48 hours (Monday-Friday)
 
 ## 🚨 Emergency Resources
@@ -195,13 +195,13 @@ Before submitting to app stores, ensure:
 
 ## 📄 License
 
-© 2024 PeacePort. All rights reserved.
+© 2026 PeacePort. All rights reserved.
 
 This documentation is proprietary and confidential. Unauthorized copying, distribution, or use is strictly prohibited.
 
 ## 🔄 Version History
 
-- **v1.0** (November 27, 2024) - Initial release
+- **v1.0** (February 4, 2026) - Initial release
   - Privacy Policy created
   - Terms of Service created
   - Medical Disclaimer created
@@ -210,6 +210,6 @@ This documentation is proprietary and confidential. Unauthorized copying, distri
 
 ---
 
-**Last Updated:** November 27, 2024
+**Last Updated:** February 4, 2026
 
-For questions about this documentation, contact: gozutokbusiness@gmail.com
+For questions about this documentation, contact: Info@vernaldigital.com
