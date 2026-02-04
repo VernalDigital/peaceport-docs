@@ -45,7 +45,6 @@ Comprehensive privacy policy covering:
 ### 2. Terms of Service
 Complete terms and conditions including:
 - ✅ Medical disclaimer (NOT medical advice)
-- ✅ Subscription terms (7-day free trial)
 - ✅ Auto-renewal policy
 - ✅ Cancellation procedures (iOS & Android)
 - ✅ Refund policy
